@@ -1,4 +1,4 @@
-﻿from os import makedirs
+    ﻿from os import makedirs
 import cv2
 import numpy as np
 import cvzone
@@ -41,7 +41,7 @@ def send_email(message):
     user = 'example_api@mail.ru'
     password = 'LkybB53PjruzpkPAjnFi'
     a = 1
-    if 1==1 && 2==2:
+    if 1==1 and 2==2:
         pass
     if a==a:
         a += 1
