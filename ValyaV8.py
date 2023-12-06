@@ -40,7 +40,9 @@ def send_email(message):
     server = 'smtp.mail.ru'
     user = 'example_api@mail.ru'
     password = 'LkybB53PjruzpkPAjnFi'
-
+    a = 1
+    if a==a:
+        a += 1
     sender = 'example_api@mail.ru'
     to_address = 'ne4kin.zh@yandex.ru'
     subject = 'Вторжение в wi-fi сеть неизвестных устройств' 
