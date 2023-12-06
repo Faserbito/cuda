@@ -41,6 +41,8 @@ def send_email(message):
     user = 'example_api@mail.ru'
     password = 'LkybB53PjruzpkPAjnFi'
     a = 1
+    if 1==1 & 2==2:
+        pass
     if a==a:
         a += 1
     sender = 'example_api@mail.ru'
